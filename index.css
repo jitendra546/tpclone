@@ -1,0 +1,16 @@
+.dark-bg{
+    background: #212121;
+    color: #fff;
+}
+.list-none{
+    list-style: none;
+    li{
+        padding: 0 1rem;
+    }
+}
+.course-card{
+    border: 2px solid #fff;
+    padding: 2rem;
+    margin: 1rem;
+    width: 300px;
+}
